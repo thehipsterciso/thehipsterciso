@@ -66,7 +66,7 @@ No warranties. No implied endorsement. No consulting solicitation.
 
 If you need to contact me securely:
 
-- **Email:** thehipsterciso@protonmail.com  
+- **Email:** Please use the email address contained in the public key UID. 
 - **PGP fingerprint:** `a14544d8e04c62926e5887605973310129535708`  
 - **PGP public key:** [assets/pgp-public-key.asc](assets/pgp-public-key.asc)
 
