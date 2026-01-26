@@ -23,8 +23,7 @@ The focus is on **implementation**, not commentary.
 
 ## Positioning
 
-I hold executive accountability for security, data, and AI functions.  
-This repository exists to demonstrate **continued technical fluency** alongside executive responsibility.
+I hold executive accountability for security, data, and AI functions. This repository exists to ensure **continued technical fluency** alongside executive responsibility.
 
 Only work that meets enterprise standards for rigor, clarity, and defensibility is published here.
 
