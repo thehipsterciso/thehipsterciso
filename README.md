@@ -68,7 +68,7 @@ If you need to contact me securely:
 
 - **Email:** thehipsterciso@protonmail.com  
 - **PGP fingerprint:** `a14544d8e04c62926e5887605973310129535708`  
-- **PGP public key:** [assets/pgp-public-key.asc](security/pgp-public-key.asc)
+- **PGP public key:** [assets/pgp-public-key.asc](assets/pgp-public-key.asc)
 
 ---
 
