@@ -1,1 +1,20 @@
-²ø1šYì
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="168" viewBox="0 0 680 168" role="img" aria-label="594 analytical claims rated: 150 fact, 442 inference, 2 unknowable"><style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.t{fill:#1f2328}.ts{fill:#59636e;font-size:13px}.tt{fill:#818b98;font-size:12px}
+.big{fill:#1f2328;font-weight:600}.lbl{fill:#1f2328;font-size:13px}
+.div{stroke:#d0d7de}
+@media (prefers-color-scheme:dark){.t,.big,.lbl{fill:#e6edf3}.ts{fill:#9198a1}.tt{fill:#6e7681}.div{stroke:#30363d}}
+</style>
+<text class="ts" x="40" y="56">Analytical claims</text>
+<text class="big" x="40" y="108" font-size="34">594</text>
+<text class="ts" x="40" y="132">every one rated</text>
+<line class="div" x1="345" y1="40" x2="345" y2="148" stroke-width="1"/>
+<text class="ts" x="372" y="56">Labeled by certainty</text>
+<rect x="372" y="80" width="236" height="16" rx="4" fill="#378ADD"/>
+<rect x="372" y="80" width="60" height="16" rx="4" fill="#1D9E75"/>
+<rect x="372" y="110" width="9" height="9" rx="2" fill="#1D9E75"/>
+<text class="ts" x="387" y="118">150 fact</text>
+<rect x="470" y="110" width="9" height="9" rx="2" fill="#378ADD"/>
+<text class="ts" x="485" y="118">442 inference</text>
+<text class="tt" x="372" y="144">plus 2 unknowable &#183; 396 sourced documents</text>
+</svg>

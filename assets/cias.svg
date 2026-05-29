@@ -1,1 +1,19 @@
-²ø1šYì
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="156" viewBox="0 0 680 156" role="img" aria-label="CIA triad plus Safety as a fourth dimension consequence profile"><style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.t{fill:#1f2328}.ts{fill:#59636e;font-size:13px}.tt{fill:#818b98;font-size:12px}
+.big{fill:#1f2328;font-weight:600}.lbl{fill:#1f2328;font-size:13px}
+.div{stroke:#d0d7de}
+@media (prefers-color-scheme:dark){.t,.big,.lbl{fill:#e6edf3}.ts{fill:#9198a1}.tt{fill:#6e7681}.div{stroke:#30363d}}
+</style>
+<text class="ts" x="46" y="38">A fourth dimension</text>
+<rect x="46" y="52" width="138" height="40" rx="8" fill="none" stroke="#1D9E75" stroke-width="1.5"/>
+<text class="lbl" x="115" y="77" text-anchor="middle">Confidentiality</text>
+<rect x="196" y="52" width="138" height="40" rx="8" fill="none" stroke="#1D9E75" stroke-width="1.5"/>
+<text class="lbl" x="265" y="77" text-anchor="middle">Integrity</text>
+<rect x="346" y="52" width="138" height="40" rx="8" fill="none" stroke="#1D9E75" stroke-width="1.5"/>
+<text class="lbl" x="415" y="77" text-anchor="middle">Availability</text>
+<rect x="496" y="52" width="138" height="40" rx="8" fill="#D85A30" fill-opacity="0.14" stroke="#D85A30" stroke-width="1.5"/>
+<text class="lbl" x="565" y="77" text-anchor="middle">Safety</text>
+<text class="t" x="46" y="120" font-size="15">Consequence profile, not domain label.</text>
+<text class="tt" x="46" y="140">framework in development</text>
+</svg>

@@ -1,1 +1,20 @@
-²ø1šYì
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="206" viewBox="0 0 680 206" role="img" aria-label="Labor markets have ONET, cybersecurity has NICE, data and AI now has WIDAI"><style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.t{fill:#1f2328}.ts{fill:#59636e;font-size:13px}.tt{fill:#818b98;font-size:12px}
+.big{fill:#1f2328;font-weight:600}.lbl{fill:#1f2328;font-size:13px}
+.div{stroke:#d0d7de}
+@media (prefers-color-scheme:dark){.t,.big,.lbl{fill:#e6edf3}.ts{fill:#9198a1}.tt{fill:#6e7681}.div{stroke:#30363d}}
+</style>
+<text class="ts" x="40" y="34">A standard the profession never had</text>
+<text class="lbl" x="40" y="62">Labor market</text>
+<text class="ts" x="40" y="78">O*NET, 40 years</text>
+<rect x="220" y="52" width="390" height="12" rx="4" fill="#1D9E75"/>
+<text class="lbl" x="40" y="112">Cybersecurity</text>
+<text class="ts" x="40" y="128">NICE, ~10 years</text>
+<rect x="220" y="102" width="98" height="12" rx="4" fill="#1D9E75"/>
+<text class="lbl" x="40" y="162">Data &amp; AI</text>
+<text class="ts" x="40" y="178">WIDAI, new</text>
+<rect x="220" y="152" width="16" height="12" rx="4" fill="#D85A30"/>
+<text class="tt" x="244" y="162">&#8592; until now, nothing</text>
+<text class="tt" x="40" y="200">WIDAI v0.8.2 &#183; 1,069 capabilities &#183; 187 roles &#183; 70 frameworks mapped</text>
+</svg>
