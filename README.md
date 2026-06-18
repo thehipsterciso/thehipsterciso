@@ -2,7 +2,7 @@
 
 **Chief Data &amp; AI Officer · CISO**
 
-Global Head of Security &amp; GRC at an NYSE manufacturer. CISO of a PE-backed platform. Six years running OT inside a DAX 40 WEF Lighthouse factory. Co-author of U.S. national cybersecurity standards through MITRE and CIS. Issued U.S. patent. Carnegie Mellon CDAIO, first cohort.
+Global Head of Security &amp; GRC at an NYSE manufacturer. CISO of a PE-backed platform. Six years running OT inside a DAX 40 WEF Lighthouse factory. Co-author of U.S. national cybersecurity standards through MITRE and CIS. Issued U.S. patent. Carnegie Mellon CDAIO, third cohort.
 
 Security, data, and AI are one discipline seen from different altitudes. What follows is organized by what that discipline does for an organization, with the work underneath each as evidence. The full index of repositories is at the bottom. Built, not asserted.
 
